@@ -1,6 +1,6 @@
 names1 = ["Mateusz", "Fabian", "Laura", "Adrian"]
 names2 = ["Katarzyna", "Adam", "Ewelina", "Tomasz"]
-names3 = ["Aleksandra", "Ewa", "Andrzej", "Michał"]
+names3 = ["Aleksandra", "Ewa", "Andrzej", "Aleksandra"]
 
 set1 = set(names1)
 set2 = set(names2)
