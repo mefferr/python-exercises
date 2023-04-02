@@ -1,11 +1,11 @@
-names1 = ["Mateusz", "Fabian", "Laura", "Adrian"]
-names2 = ["Katarzyna", "Adam", "Ewelina", "Tomasz"]
-names3 = ["Aleksandra", "Ewa", "Andrzej", "Aleksandra"]
+array1 = ["Mateusz", "Fabian", "Laura", "Adrian"]
+array2 = ["Katarzyna", "Adam", "Ewelina", "Tomasz"]
+array3 = ["Aleksandra", "Ewa", "Andrzej", "Aleksandra"]
 
-set1 = set(names1)
-set2 = set(names2)
-set3 = set(names3)
+setA = set(array1)
+setB = set(array2)
+setC = set(array3)
 
-print("Set 1:", set1)
-print("Set 2:", set2)
-print("Set 3:", set3)
+print("Set A:", setA)
+print("Set B:", setB)
+print("Set C:", setC)
